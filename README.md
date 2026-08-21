@@ -2,15 +2,20 @@
 
 ### About
 
+<b>
 <ul>
-  <li>🌱 Bachlors of engineering, Computer Science at NTNU</li>
-  <li>🔭 Playing bass, training, learning and hobby programming</li>
-  <li>📫 How to reach me: <a href="mailto:sapula.pawel@gmail.com">Mail</a></li>
+  <li>💥 Stydying Electrical Engineering, Integrated Master at NTNU</li>
+  <li>🌱 Earlier student of Computer Science at NTNU, Bachelors (1 year)</li>
+  <li>🔭 Training, learning, exploring and hobby programming</li>
+  <li>📫 How to reach me: 
+    <ul>
+      <li><a href="mailto:sapula.pawel@gmail.com">Mail</a></li>
+      <li><a href="https://pawelsapula.github.io">Portfolio</a></li>
+    </ul>
 </ul>
+</b>
 
-### Current work
-<ul>
-  <li>🧠 <a href="https://pawelsapula.github.io">Portfolio</a></li>
-</ul>
+### Current projects
+- **Homelabbing**
 
 
