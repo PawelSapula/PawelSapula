@@ -4,9 +4,9 @@
 
 <b>
 <ul>
-  <li>💥 Stydying Electrical Engineering, Integrated Master at NTNU</li>
+  <li>💥 Stydying Electronics System Design and Innovation, Integrated Master at NTNU</li>
   <li>🌱 Earlier student of Computer Science at NTNU, Bachelors (1 year)</li>
-  <li>🔭 Training, learning, exploring and hobby programming</li>
+  <li>🔭 Training, learning & exploring</li>
   <li>📫 How to reach me: 
     <ul>
       <li><a href="mailto:sapula.pawel@gmail.com">Mail</a></li>
