@@ -17,5 +17,5 @@
 
 ### Current projects
 - **Homelabbing**
-- **Tablet driver management software**
+- **Graphical tablet management software**
 
