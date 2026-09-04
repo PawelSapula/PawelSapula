@@ -15,8 +15,6 @@
       <li> <a href="mailto:sapula.pawel@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
       </a></li>
-
-  <li><a href="https://pawelsapula.github.io">Portfolio</a></li>
   </ul>
 </ul>
 </b>
