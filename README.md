@@ -9,13 +9,19 @@
   <li>🔭 Training, learning & exploring</li>
   <li>📫 How to reach me: 
     <ul>
-      <li><a href="mailto:sapula.pawel@gmail.com">Mail</a></li>
-      <li><a href="https://pawelsapula.github.io">Portfolio</a></li>
-    </ul>
+  <li>
+    <a href="https://www.linkedin.com/in/pawel-sapula-6b2466424/"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" alt="LinkedIn" height="22" /></a>
+  </li>
+      <li> <a href="mailto:sapula.pawel@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+      </a></li>
+
+  <li><a href="https://pawelsapula.github.io">Portfolio</a></li>
+  </ul>
 </ul>
 </b>
 
 ### Current projects
+- **USB Device Listener**
 - **Homelabbing**
-- **Graphical tablet management software**
 
