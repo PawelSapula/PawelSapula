@@ -9,8 +9,9 @@
 </ul>
 
 ## Current projects
+- Assembly projects
+- Electrical circuit simulator in Vulkan
 - USB Device Listener
-- ARM64 XNU asm calculator
 
 
 ## 📫 How to reach me
